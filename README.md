@@ -36,7 +36,7 @@ By mastering Python, I enhance my ability to innovate, scale infrastructure, and
 
 ### GitHub Link
 
-[Link to GitHub repository](https://github.com/yourusername/your-repository)
+[Link to GitHub repository](https://github.com/Rishmish94/100daysofpython)
 
 ### Join Me
 
